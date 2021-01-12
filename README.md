@@ -1,11 +1,6 @@
 # makemkv-iso-autorip
 A bash script for automatically ripping movies and TV shows from ISOs using [MakeMKV](https://www.makemkv.com/), with parallelization for multiple ISOs at the same time.
 
-# MakeMKV-AutoRip-Script
-A bash script for automatically ripping movies and TV shows using .
-It has been written with the focus on parallelization, so that you can rip from multiple ISOs at once.
-ISOs will automatically be ripped with the predefined, global parameters in the settings.cfg file.
-
 # Disclaimer
 This script has only been tested on Ubuntu 20.04.01. Whilst it might work with other systems, I can't guarantee for it.
 
